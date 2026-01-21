@@ -1,5 +1,5 @@
 ﻿
-#define GLEW_DLL
+#define GLEW_STATIC
 #define GLFW_DLL
 
 #include <GL/glew.h>     
